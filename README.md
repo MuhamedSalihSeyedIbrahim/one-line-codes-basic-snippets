@@ -1,2 +1,3 @@
 # OneLineCodes
-this have snippet function to easy code snippeting
+This have snippet function <br>
+To easy code snippeting
