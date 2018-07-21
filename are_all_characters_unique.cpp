@@ -1,4 +1,5 @@
 //are_all_characters_unique
+//unique character
 bool uniqueCharacters(string str) {
      
     // If at any time we encounter 2 ,same characters, return false
@@ -9,7 +10,6 @@ bool uniqueCharacters(string str) {
             }
         }
     }
-     
     // If no duplicate characters encountered, return true 
     return true;
 }
