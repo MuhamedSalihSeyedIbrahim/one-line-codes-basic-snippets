@@ -1,3 +1,4 @@
+//are_all_characters_unique
 bool uniqueCharacters(string str) {
      
     // If at any time we encounter 2 ,same characters, return false
